@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4b146fce-a489-428e-8d57-319f23334765",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 160,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "gun 80 hp": {
+      "ver": "1.0.6",
+      "uuid": "972c41fb-6325-4427-9808-d2e127d0f846",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4b146fce-a489-428e-8d57-319f23334765",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 160,
+      "height": 104,
+      "rawWidth": 160,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
